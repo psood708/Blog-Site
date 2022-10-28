@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "The party has been organized at a large scale level and we have to be at par with service. SUIIIIIIIIIIIIIIII",
+      "author": "Yagami",
+      "id": 2
+    },
+    {
+      "title": "Japan Tours",
+      "body": "We have been using react for not so long so I think we should",
+      "author": "PewDiePie",
+      "id": 4
+    },
+    {
+      "title": "Bitch Lasagna",
+      "body": "We have been using react for not so long so I think we should. Bobs and vagana whichever will it be shut the fuck up T-series",
+      "author": "PewDiePie",
+      "id": 5
+    },
+    {
+      "title": "Bleach ending",
+      "body": "Ichigo has fought Aizen and has achieved final Getsugatensho and thus he is a very cool guy he does BANKAII!!",
+      "author": "Parth",
+      "id": 6
+    },
+    {
+      "title": "How AI can definitely conquer humanity!!",
+      "body": "So this is a really long articcle and I ahve been researching on this since a while watching bleach at the same time but yeah the stuff is good and we should definitely try the technologies in hand",
+      "author": "PewDiePie",
+      "id": 7
+    }
+  ]
+}
